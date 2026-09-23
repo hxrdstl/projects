@@ -1,7 +1,0 @@
-C:\Users\maksg\source\repos\pd1\bin\Debug\pd1.exe.config
-C:\Users\maksg\source\repos\pd1\bin\Debug\pd1.exe
-C:\Users\maksg\source\repos\pd1\bin\Debug\pd1.pdb
-C:\Users\maksg\source\repos\pd1\obj\Debug\pd1.csproj.AssemblyReference.cache
-C:\Users\maksg\source\repos\pd1\obj\Debug\pd1.csproj.CoreCompileInputs.cache
-C:\Users\maksg\source\repos\pd1\obj\Debug\pd1.exe
-C:\Users\maksg\source\repos\pd1\obj\Debug\pd1.pdb
